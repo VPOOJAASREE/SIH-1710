@@ -121,8 +121,7 @@ Enhanced passenger satisfaction and safety
 
 ### USE CASE DIAGRAM:
 
-![Uploading ChatGPT Image May 2, 2025, 11_01_14 AM.png…]()
-
+![ChatGPT Image May 2, 2025, 11_01_14 AM](https://github.com/user-attachments/assets/662ae4a5-023d-4bf0-9c27-25229a32fa04)
 
 
 
